@@ -13,6 +13,5 @@ Use docker to build Marlin firmware for Prusa printers at Raccoon
 
 ## Usage
 1. clone this repo
-2. `chmod +x ./build_marlin.sh`
-3. `./build_marlin.sh`
-4. upload the hex file in `build` to the printer with Arduino IDE or arduino-cli
+2. `./build_marlin.sh`
+3. upload the hex file in `build` to the printer with Arduino IDE or arduino-cli
